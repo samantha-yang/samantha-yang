@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi%2C+it's+Samantha+Yang;Software+Engineer" alt="Software Engineer"/>
 </a>
 
-hi, I'm <b>Samantha</b>! i'm an aspiring software engineer.
+## hi, I'm Samantha! i'm an aspiring software engineer.
 
 ### connect with me.
 
