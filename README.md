@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFB6C1&width=435&lines=hi%2C+it's+Samantha+Yang;software+engineer" alt="Software Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=750&size=45&duration=4500&pause=400&color=FFB6C1&width=800&height=75&lines=hi%2C+it's+Samantha+Yang;software+engineer" alt="Software Engineer"/>
 </a>
 
 # hey there, i'm Samantha! i'm an aspiring software engineer.
