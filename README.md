@@ -25,6 +25,7 @@ About me section
 - interested in full-stack development & software design
 - making ideas real, one commit at a time
 - currently building a self portfolio & learning as i go
+- i like to make things <span style="color: pink;"><i>pretty</i></span>.
 
 ## languages and tools:
 <p>
