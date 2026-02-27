@@ -87,7 +87,6 @@ About me section
 ## download my resume here.
 
 > <a href="https://drive.google.com/file/d/1Yizxgki57BcU9hBK39pehSwHw_dJdRL2/view?usp=sharing" download>resume</a>
-<br/>
-<sub><i>last updated · feb 2026</i></sub>
+> <sub><i>last updated · feb 2026</i></sub>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer" alt="footer"/>
