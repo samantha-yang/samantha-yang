@@ -25,7 +25,7 @@ About me section
 - interested in full-stack development & software design
 - making ideas real, one commit at a time
 - currently building a self portfolio & learning as i go
-- i like to make things <span style="color: pink;"><i>pretty</i></span>.
+- i enjoy making things <span style="color: pink;"><i>pretty</i></span>.
 
 ## languages and tools:
 <p>
@@ -86,8 +86,8 @@ About me section
 
 ## download my resume here.
 
-> <a href="https://drive.google.com/file/d/1Yizxgki57BcU9hBK39pehSwHw_dJdRL2/view?usp=sharing" download>resume</a>
+> <a href="https://drive.google.com/file/d/1uui_J--ECw5RHex90mSYUKV9Eh-3nlbC/view?usp=sharing" download>resume</a>
 >
-> <sub><i>last updated · feb 2026</i></sub>
+> <sub><i>last updated · march 2026</i></sub>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer" alt="footer"/>
